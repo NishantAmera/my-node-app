@@ -1,0 +1,9 @@
+{
+  "name": "my-node-app",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo 'Running tests...'",
+    "build": "echo 'Building application...'",
+    "start": "node src/app.js"
+  }
+}
